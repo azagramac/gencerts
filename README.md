@@ -3,6 +3,9 @@
 > Una **herramienta todo en uno** para gestionar certificados, claves SSH y GPG en entornos Linux, con una interfaz gráfica de consola sencilla y amigable.  
 > Perfecta para usuarios que quieren crear CAs, renovar certificados Let's Encrypt, manejar claves SSH y GPG sin complicaciones.
 
+<img width="673" height="483" alt="image" src="https://github.com/user-attachments/assets/0fd689ea-876e-4a7c-8c76-20f20cbed069" />
+
+
 ---
 
 ## 🚀 Características
