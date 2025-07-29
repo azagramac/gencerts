@@ -40,8 +40,8 @@ El script utiliza las siguientes herramientas:
 1. Clona este repositorio o descarga el script:
 
    ```bash
-   git clone https://github.com/tuusuario/linux-cert-ssh-toolkit.git
-   cd linux-cert-ssh-toolkit
+   git clone https://github.com/azagramac/gencerts.git
+   cd gencerts
    ```
 
 2. Dale permisos de ejecución:
